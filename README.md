@@ -1,4 +1,4 @@
-# HTML Tables in class
+# HTML Tables IC
 
 ### Exercise 1:
 Create a channel guide similar to what's shown in ```example4.png```. 
